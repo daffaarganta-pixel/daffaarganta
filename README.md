@@ -16,7 +16,7 @@
 ---
 
 ### 🌱 Tentang Saya
-- 🎯 Selalu bersemangat untuk mengeksplorasi teknologi baru dan mencari refrensi kemanapun untuk menambahkan wawasan saya kedeapnya
+- 🎯 Selalu bersemangat untuk mengeksplorasi teknologi baru dan mencari refrensi kemanapun untuk menambahkan wawasan saya kedepanya
 - ⚙ Tertarik pada pengembangan perangkat lunak dan pemecahan masalah  
 - 📚 Terus berusaha meningkatkan kemampuan coding dan membangun proyek pribadi  
 
